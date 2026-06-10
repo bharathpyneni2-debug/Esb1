@@ -93,7 +93,7 @@ This project is built for a **hackathon** to improve digital accessibility for s
 
 ## 👨‍💻 Author
 
-Akshay Kumar N
+P.BHARATH NAIDU
 
 ---
 
